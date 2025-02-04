@@ -1,11 +1,14 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Sergio belmontes # your name (or website title) here
+logo: "E:/GIS 6953-Res_and_Pro_Dev/photo1.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+ My name is Sergio Belmontes, I am a young GIS Professional currently working as a GIS Technician.
+ As a GIS specialist I usually wear different hats when asked. Sometimes it may involve spatial analysis with ArcGIS Pro, or computing spatial statistics in RStudio.
+ The next day I may be processing LANDSAT 8 data and acquiring remotely sensed LiDAR drone data.
+ The following day I may be editing designs in AuotCAD to help bear some of the workload found in the engineering.
+ Finally, I may be running some Python to help automate daily workflows.
+ I may be a GIS specialist, but my perspective is always geo-referenced.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/sergio-belmontes-9ab126175/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
