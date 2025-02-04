@@ -1,5 +1,5 @@
 title: Sergio belmontes # your name (or website title) here
-logo: "E:/GIS 6953-Res_and_Pro_Dev/photo1.jpeg?raw=true" # your photo (or logo) here
+logo: "images/photo1.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  My name is Sergio Belmontes, I am a young GIS Professional currently working as a GIS Technician.
  As a GIS specialist I usually wear different hats when asked. Sometimes it may involve spatial analysis with ArcGIS Pro, or computing spatial statistics in RStudio.
