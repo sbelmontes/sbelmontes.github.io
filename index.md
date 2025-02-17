@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SpaceX vs. Median Income of the Rio Grande Valley](/sample_page)
+<img src="images/RGV22_MedInc.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Thematic Mapping of Rio Grande Valley]([http://example.com/](https://storymaps.arcgis.com/stories/749a7502f2ac42d0ad77cab42c3e02f4))
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
