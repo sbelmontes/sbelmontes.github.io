@@ -4,7 +4,7 @@
 
 ### Cartographic & Coding Skills 
 
-[SpaceX vs. Median Income of the Rio Grande Valley](pdf/Thematic_Mapping_of_Rio_Grande_Valley.pdf)
+[SpaceX vs. Median Income of the Rio Grande Valley](https://github.com/sbelmontes/sbelmontes.github.io/blob/master/pdf/Thematic%20Mapping%20of%20Rio%20Grande%20Valley.pdf)
 <img src="images/RGV22_MedInc.jpg"/>
 
 ---
