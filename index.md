@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Cartographic & Coding Skills 
 
-[SpaceX vs. Median Income of the Rio Grande Valley](/pdf)
+[SpaceX vs. Median Income of the Rio Grande Valley](pdf/Thematic_Mapping_of_Rio_Grande_Valley.pdf)
 <img src="images/RGV22_MedInc.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Python Code of SpaceX vs. MedInc of RGV](/images/Coded_SpaceX4.jpg)
+<img src="images/Coded SpaceX4.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Thematic Mapping of Rio Grande Valley]([http://example.com/](https://storymaps.arcgis.com/stories/749a7502f2ac42d0ad77cab42c3e02f4))
+- [Thematic Mapping of Rio Grande Valley](https://storymaps.arcgis.com/stories/749a7502f2ac42d0ad77cab42c3e02f4)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
