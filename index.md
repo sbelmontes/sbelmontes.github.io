@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[SpaceX vs. Median Income of the Rio Grande Valley](/sample_page)
+[SpaceX vs. Median Income of the Rio Grande Valley](/pdf)
 <img src="images/RGV22_MedInc.jpg"/>
 
 ---
