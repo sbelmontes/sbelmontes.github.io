@@ -8,7 +8,7 @@
 <img src="images/RGV22_MedInc.jpg"/>
 
 ---
-[Python Code of SpaceX vs. MedInc of RGV](/images/Coded_SpaceX4.jpg)
+[Python Code of SpaceX vs. MedInc of RGV](https://github.com/sbelmontes/sbelmontes.github.io/blob/master/pdf/Coded%20SpaceX.pdf)
 <img src="images/Coded SpaceX4.jpg"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Related Links
 
 - [Thematic Mapping of Rio Grande Valley](https://storymaps.arcgis.com/stories/749a7502f2ac42d0ad77cab42c3e02f4)
 - [Project 2 Title](http://example.com/)
