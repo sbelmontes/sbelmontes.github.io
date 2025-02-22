@@ -12,7 +12,7 @@
 <img src="images/Coded SpaceX4.jpg"/>
 
 ---
-[Land Surface Coverage with Varying Sensors](https://code.earthengine.google.com/734f8b36a807cecb06b7058313119408))
+[Land Surface Coverage with Varying Sensors](https://code.earthengine.google.com/?scriptPath=users%2Fsergiobelmontes%2FGIS-5133%3ALandSurfaceVaryingSensor)
 <img src="images/Remote.jpg"/>
 
 ---
