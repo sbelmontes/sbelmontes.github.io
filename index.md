@@ -12,15 +12,15 @@
 <img src="images/Coded SpaceX4.jpg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chicago Crime Hotspot Analsysis (2020-2021)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=5e2c6c2278964e92b6f2259bf99f1634)
+<img src="images/ChicHotSpot.jpg"/>
 
 ---
 
 ### Related Links
 
 - [Thematic Mapping of Rio Grande Valley](https://storymaps.arcgis.com/stories/749a7502f2ac42d0ad77cab42c3e02f4)
-- [Project 2 Title](http://example.com/)
+- [Chicago Crime Hotspot Analsysis (2020-2021)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=5e2c6c2278964e92b6f2259bf99f1634)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
